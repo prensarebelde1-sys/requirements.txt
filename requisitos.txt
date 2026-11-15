@@ -1,0 +1,6 @@
+flask
+requests
+pillow
+duckduckgo-search
+schedule
+twilio
